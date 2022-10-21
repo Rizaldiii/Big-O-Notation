@@ -1,0 +1,5 @@
+Constant Time Algorihm O(1)
+
+int n = 1000;
+
+System.out.println("Hey - your input is: " + n);
