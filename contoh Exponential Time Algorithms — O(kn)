@@ -1,0 +1,5 @@
+for (int i = 1; i <= Math.pow(2, n); i++){
+
+System.out.println("Hey - I'm busy looking at: " + i);
+
+}
